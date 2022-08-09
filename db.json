@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "email": "akashgaupale007@gmail.com",
+      "password": "akash@123",
+      "user_name": "akash",
+      "id": 1
+    },
+    {
+      "email": "akashg21@navgurukul.org",
+      "password": "akashg@23",
+      "user_name": "akash",
+      "id": 2
+    }
+  ]
+}
